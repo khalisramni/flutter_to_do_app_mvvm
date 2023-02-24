@@ -1,8 +1,16 @@
 # my_app
 
-A new Flutter project.
+A flutter project.
 
 ## Getting Started
+
+This project is a to do app using simple mvvm design solution for mobile app development understanding.
+Features consists of;
+- Add task
+- View task
+- Monitor task (Completed or Not)
+- Delete task
+- Update user name
 
 This project is a starting point for a Flutter application.
 
